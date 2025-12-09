@@ -75,5 +75,6 @@ Enter in the code:
 
 ### 5. Public IP Access
 URL: http://35.245.247.184:5003/
-- Copy external (public IP) a
+- Copy external (public IP) address used when creating VM
+- Add 5003 at end to check if flask deploymment was successful
 <img width="700" height="650" alt="Screenshot 2025-12-09 002253" src="https://github.com/user-attachments/assets/54212342-c049-488e-9986-c6059ade7001" />
